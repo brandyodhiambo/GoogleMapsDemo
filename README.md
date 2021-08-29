@@ -38,7 +38,7 @@ In order to get the app running yourself, you need to:
 
 
 ## Demo
-
+https://user-images.githubusercontent.com/60472476/131258078-466c356a-ebd3-4813-a44b-267750a56f96.mp4
 
 ## Support
 - Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
